@@ -1,0 +1,31 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+.first-image-background {
+    background: url(https://prd-huion.oss-accelerate.aliyuncs.com/5/a33/detail-first-screen-bg.png) no-repeat center center;
+    background-size: cover;
+  }
+
+.product-list-img {
+    padding: 0;
+    margin-top: 10px;
+    display: -webkit-box;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+}
+
+.H-Section-one {
+    padding-bottom: 20px;
+    background: #111;
+}
+
+.product-detail-1-m {
+    margin-top: 300px;
+}
+
+.product-detail-1-bm {
+    margin-bottom: 80px;
+}
